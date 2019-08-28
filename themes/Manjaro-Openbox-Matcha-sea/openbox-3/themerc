@@ -26,7 +26,7 @@ osd.label.text.color: #D3DAE3
 osd.unhilight.bg: flat solid
 osd.unhilight.bg.color: #D3DAE3
 padding.width: 4
-window.active.border.color: #76797F
+window.active.border.color: #AEB0B6
 window.active.button.disabled.bg: parentrelative
 window.active.button.disabled.image.color: #2d3036
 window.active.button.hover.image.color: #afb8c5
@@ -45,7 +45,7 @@ window.active.title.bg.color: #1b2224
 window.active.title.separator.color: #1b2224
 window.client.padding.width: 0
 window.handle.width: 0
-window.inactive.border.color: #2D3036
+window.inactive.border.color: #76797F
 window.inactive.button.disabled.bg: parentrelative
 window.inactive.button.disabled.image.color: #2d3036
 window.inactive.button.hover.image.color: #afb8c5
